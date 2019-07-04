@@ -1,5 +1,5 @@
 # Flarduino
-Read Arduino output from Flask
+Read Serial data output from Flask
 
 ### installation
 - install pipenv
